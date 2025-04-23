@@ -28,17 +28,3 @@ El objetivo principal de este ejemplo es mostrar cómo obtener la ubicación del
 ## 🧪 Contexto Académico
 
 Este ejemplo fue desarrollado como parte del **Segundo Laboratorio** del curso de **Plataformas Emergentes**.
-
----
-
-## 🚀 Cómo ejecutar el proyecto
-
-> Si deseas probar el proyecto en tu entorno local, asegúrate de tener instalado Ionic, Node.js y Capacitor. Luego:
-
-```bash
-git clone <url-del-repositorio>
-cd nombre-del-proyecto
-npm install
-ionic build
-npx cap add android # o ios
-npx cap open android # o ios
